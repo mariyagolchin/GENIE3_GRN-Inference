@@ -1,3 +1,5 @@
+Reff: https://bioconductor.org/packages/3.21/bioc/vignettes/GENIE3/inst/doc/GENIE3.html
+
 
 exprMatr <- matrix(sample(1:10, 100, replace=TRUE), nrow=20)
 rownames(exprMatr) <- paste("Gene", 1:20, sep="")
